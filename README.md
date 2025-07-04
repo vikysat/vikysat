@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'm Satvik
+
+Currently a Sophomore CS Student at BITS Pilani 
+
+My interests include BCIs and their applications, Computational neuroscience, and Machine Learning
+
+
 
 <!--
 **vikysat/vikysat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
