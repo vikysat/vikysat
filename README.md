@@ -21,6 +21,7 @@ Computational Neuroscience, Data Science and Machine Learning
 **currently**
 
 -Contributing to Computational Neuroscience Research
+
 -Exploring Quantitative Finance
 
 
