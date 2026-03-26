@@ -2,7 +2,7 @@
 
 # Satvik
 
-sophomore @ BITS Pilani · cs · 2027
+sophomore @ BITS Pilani · cs · 2028
 
 </div>
 
