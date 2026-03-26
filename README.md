@@ -1,9 +1,37 @@
-## Hi I'm Satvik
+<div align="center">
 
-Currently a Sophomore CS Student at BITS Pilani 
+# Satvik
 
-My interests include BCIs and their applications, Computational neuroscience, and Machine Learning
+sophomore @ BITS Pilani · cs · 2027
 
+</div>
+
+---
+
+I care about two things most people think are unrelated: how the brain computes, and how to make machines do the same. BCIs are where those crash into each other.
+
+Currently somewhere between *neuroscience student*, *ML hacker*, and *data person*.
+
+---
+
+**interests**
+
+Computational Neuroscience, Data Science and Machine Learning
+
+---
+
+**currently**
+
+- going deeper on neural decoding pipelines
+- reading *Theoretical Neuroscience* — Dayan & Abbott
+- figuring out what a sophomore can actually contribute to BCI research
+
+---
+
+<div align="center">
+
+
+</div>
 
 
 <!--
